@@ -15,7 +15,7 @@ I've been learning to code for 3years and I'm Intrested in Web Developement and 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mohamedirfan1720@gmail.com](mailto:mohamedirfan1720@gmail.com)
 * 🚀  I'm currently working on [Projects based on MERN STACK](http://github.com/MdIrfan-ul/ImdbClone-App)
-* 🧠  I'm learning Express.js
+* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Intresting projects
 * ⚡  I'm learning to code and I'm open to receiving advice.
 
